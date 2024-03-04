@@ -10,5 +10,5 @@
 //UIDevice class has been used to get unique vendor ID in replacement of IMEI number(Non accessible)
 //UIDevice class was used to fetch the battery level , model name and iOS Version using its class properties which have been provided by Apple already
 
-
+// As there is no camera hardware available on stimulator hence I have printed the same incase camera is not found (Cases when app is being run on stimulators)
 
